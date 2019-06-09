@@ -1,4 +1,4 @@
-# arctic-way
+# Arctic Way
 
 This repository contains source code for Arctic Way game. 
 
